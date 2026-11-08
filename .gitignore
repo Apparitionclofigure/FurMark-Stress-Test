@@ -1,0 +1,35 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+~$*
+
+# FurMark extracted files (keep only the archive in the repo)
+FurMark_Stress_Test.exe
+*.dll
+*.ini
+*.cfg
+*.dat
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+
+# Archives (the main archive is tracked explicitly)
+*.zip
+!FurMark_Stress_Test_Portable.zip
+
+# Node (if using a build tool for the landing page)
+node_modules/
